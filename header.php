@@ -11,7 +11,7 @@ session_start();
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-		<title>Apricot Store</title>
+		<title>Meraki Store</title>
 
 		<!-- Google font -->
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
@@ -45,41 +45,41 @@ session_start();
 		<![endif]-->
     <style>
         #navigation {
-          background: #FF4E50;  /* fallback for old browsers */
-            background: -webkit-linear-gradient(to right, #F9D423, #FF4E50);  /* Chrome 10-25, Safari 5.1-6 */
-            background: linear-gradient(to right, #F9D423, #FF4E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+          	background: #FF4E50;  /* fallback for old browsers */
+		  	background: -webkit-linear-gradient(to right, #1565c0, #4dd0e1);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #1565c0, #4dd0e1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
           
         }
         #header {
   
-            background: #780206;  /* fallback for old browsers */
-            background: -webkit-linear-gradient(to right, #061161, #780206);  /* Chrome 10-25, Safari 5.1-6 */
-            background: linear-gradient(to right, #061161, #780206); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            background: #0070c9;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #061161, #006b8f);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #061161, #006b8f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   
         }
         #top-header {
               
   
-            background: #870000;  /* fallback for old browsers */
-            background: -webkit-linear-gradient(to right, #190A05, #870000);  /* Chrome 10-25, Safari 5.1-6 */
-            background: linear-gradient(to right, #190A05, #870000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            background: #1565c0;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #01062b, #1565c0);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #01062b, #1565c0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 
         }
         #footer {
-            background: #7474BF;  /* fallback for old browsers */
-            background: -webkit-linear-gradient(to right, #348AC7, #7474BF);  /* Chrome 10-25, Safari 5.1-6 */
-            background: linear-gradient(to right, #348AC7, #7474BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            background: #4dd0e1;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #4dd0e1, #348AC7);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #4dd0e1, #348AC7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 
           color: #1E1F29;
         }
         #bottom-footer {
-            background: #7474BF;  /* fallback for old browsers */
-            background: -webkit-linear-gradient(to right, #348AC7, #7474BF);  /* Chrome 10-25, Safari 5.1-6 */
-            background: linear-gradient(to right, #348AC7, #7474BF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+            background: #4dd0e1;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to right, #4dd0e1, #348AC7);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to right, #4dd0e1, #348AC7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
           
 
         }
@@ -122,9 +122,9 @@ session_start();
 			<div id="top-header">
 				<div class="container">
 					<ul class="header-links pull-left">
-						<li><a href="#"><i class="fa fa-phone"></i> +880123456789</a></li>
-						<li><a href="#"><i class="fa fa-envelope-o"></i> help.shohan@gmail.com</a></li>
-						<li><a href="#"><i class="fa fa-map-marker"></i>Daffodil Smart City</a></li>
+						<li><a href="#"><i class="fa fa-phone"></i>+503 7228-0652</a></li>
+						<li><a href="#"><i class="fa fa-envelope-o"></i>meraki@gmail.com</a></li>
+						<li><a href="#"><i class="fa fa-map-marker"></i>San Salvador</a></li>
 					</ul>
 					<ul class="header-links pull-right">
 						<li><a href="#"><i class="fa fa-dollar"></i> </a></li>
@@ -137,10 +137,10 @@ session_start();
                                 
                                 echo '
                                <div class="dropdownn">
-                                  <a href="#" class="dropdownn" data-toggle="modal" data-target="#myModal" ><i class="fa fa-user-o"></i> HI '.$row["first_name"].'</a>
+                                  <a href="#" class="dropdownn" data-toggle="modal" data-target="#myModal" ><i class="fa fa-user-o"></i> Hola '.$row["first_name"].'</a>
                                   <div class="dropdownn-content">
-                                    <a href="" data-toggle="modal" data-target="#profile"><i class="fa fa-user-circle" aria-hidden="true" ></i>My Profile</a>
-                                    <a href="logout.php"  ><i class="fa fa-sign-in" aria-hidden="true"></i>Log out</a>
+                                    <a href="" data-toggle="modal" data-target="#profile"><i class="fa fa-user-circle" aria-hidden="true" ></i>Mi Perfil</a>
+                                    <a href="logout.php"  ><i class="fa fa-sign-in" aria-hidden="true"></i>Cerrar Sesión</a>
                                     
                                   </div>
                                 </div>';
@@ -148,11 +148,11 @@ session_start();
                             }else{ 
                                 echo '
                                 <div class="dropdownn">
-                                  <a href="#" class="dropdownn" data-toggle="modal" data-target="#myModal" ><i class="fa fa-user-o"></i> My Account</a>
+                                  <a href="#" class="dropdownn" data-toggle="modal" data-target="#myModal" ><i class="fa fa-user-o"></i> Mi Cuenta</a>
 								  <div class="dropdownn-content">
 								  	<a href="admin/login.php" ><i class="fa fa-user" aria-hidden="true" ></i>Admin</a>
-                                    <a href="" data-toggle="modal" data-target="#Modal_login"><i class="fa fa-sign-in" aria-hidden="true" ></i>Login</a>
-                                    <a href="" data-toggle="modal" data-target="#Modal_register"><i class="fa fa-user-plus" aria-hidden="true"></i>Register</a>
+                                    <a href="" data-toggle="modal" data-target="#Modal_login"><i class="fa fa-sign-in" aria-hidden="true" ></i>Iniciar Sesión</a>
+                                    <a href="" data-toggle="modal" data-target="#Modal_register"><i class="fa fa-user-plus" aria-hidden="true"></i>Registrarse</a>
                                     
                                   </div>
                                 </div>';
@@ -178,11 +178,8 @@ session_start();
 						<!-- LOGO -->
 						<div class="col-md-3">
 							<div class="header-logo">
-								<a href="#" class="logo">
-								<font style="font-style:normal; font-size: 33px;color: aliceblue;font-family: serif">
-                                        Apricot Store
-                                    </font>
-									
+								<a href="index.php" class="logo">
+									<img src="img/LogotipoMeraki.png" alt="Meraki Logo" style="max-width: 200px; height: auto;">
 								</a>
 							</div>
 						</div>
@@ -193,13 +190,13 @@ session_start();
 							<div class="header-search">
 								<form>
 									<select class="input-select">
-										<option value="0">All Categories</option>
-										<option value="1">Electronics</option>
-										<option value="2">Mens Wear</option>
+										<option value="0">Todo</option>
+										<option value="1">Electrónica</option>
+										<option value="2">Caballeros</option>
 										
 									</select>
-									<input class="input" id="search" type="text" placeholder="Search here">
-									<button type="submit" id="search_btn" class="search-btn">Search</button>
+									<input class="input" id="search" type="text" placeholder="Buscar aquí">
+									<button type="submit" id="search_btn" class="search-btn">Buscar</button>
 								</form>
 							</div>
 						</div>
@@ -208,21 +205,13 @@ session_start();
 						<!-- ACCOUNT -->
 						<div class="col-md-3 clearfix">
 							<div class="header-ctn">
-								<!-- Wishlist -->
-								<div>
-									<a href="https://github.com/shohan3401">
-										<i class="fa fa-github"></i>
-										<span>Github</span>
-										
-									</a>
-								</div>
 								<!-- /Wishlist -->
 
 								<!-- Cart -->
 								<div class="dropdown">
 									<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
 										<i class="fa fa-shopping-cart"></i>
-										<span>Your Cart</span>
+										<span>Mi Carrito</span>
 										<div class="badge qty">0</div>
 									</a>
 									<div class="cart-dropdown"  >
@@ -232,7 +221,7 @@ session_start();
 										</div>
 										
 										<div class="cart-btns">
-												<a href="cart.php" style="width:100%;"><i class="fa fa-edit"></i>  edit cart</a>
+												<a href="cart.php" style="width:100%;"><i class="fa fa-edit"></i>  Editar carrito</a>
 											
 										</div>
 									</div>

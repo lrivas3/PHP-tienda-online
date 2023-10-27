@@ -10,7 +10,7 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="img/banner3.jpg" alt="Los Angeles" style="width:100%;">
+        <img src="img/banner1.jpg" alt="Los Angeles" style="width:100%;">
         
       </div>
 
@@ -20,15 +20,15 @@
       </div>
     
       <div class="item">
+        <img src="img/banner3.jpg" alt="New York" style="width:100%;">
+        
+      </div>
+      <div class="item">
         <img src="img/banner4.jpg" alt="New York" style="width:100%;">
         
       </div>
       <div class="item">
-        <img src="img/banner1.jpg" alt="New York" style="width:100%;">
-        
-      </div>
-      <div class="item">
-        <img src="img/banner3.jpg" alt="New York" style="width:100%;">
+        <img src="img/banner5.jpg" alt="New York" style="width:100%;">
         
       </div>
   
@@ -64,8 +64,8 @@
 								<img src="./img/shop01.png" alt="">
 							</div>
 							<div class="shop-body">
-								<h3>Laptop<br>Collection</h3>
-								<a href="product.php?p=78" class="cta-btn">Shop now <i class="fa fa-arrow-circle-right"></i></a>
+								<h3>Colección de<br>Laptops</h3>
+								<a href="product.php?p=78" class="cta-btn">Comprar ahora <i class="fa fa-arrow-circle-right"></i></a>
 							</div>
 						</div></a>
 					</div>
@@ -78,8 +78,8 @@
 								<img src="./img/shop03.png" alt="">
 							</div>
 							<div class="shop-body">
-								<h3>Accessories<br>Collection</h3>
-								<a href="product.php?p=72" class="cta-btn">Shop now <i class="fa fa-arrow-circle-right"></i></a>
+								<h3>Colección de<br>Accesorios</h3>
+								<a href="product.php?p=72" class="cta-btn">Comprar ahora <i class="fa fa-arrow-circle-right"></i></a>
 							</div>
 						</div></a>
 					</div>
@@ -92,8 +92,8 @@
 								<img src="./img/shop02.png" alt="">
 							</div>
 							<div class="shop-body">
-								<h3>Cameras<br>Collection</h3>
-								<a href="product.php?p=79" class="cta-btn">Shop now <i class="fa fa-arrow-circle-right"></i></a>
+								<h3>Colección de<br>Cámaras</h3>
+								<a href="product.php?p=79" class="cta-btn">Comprar ahora <i class="fa fa-arrow-circle-right"></i></a>
 							</div>
                             </div></a>
 					</div>
@@ -117,13 +117,13 @@
 					<!-- section title -->
 					<div class="col-md-12">
 						<div class="section-title">
-							<h3 class="title">New Products</h3>
+							<h3 class="title">Nuevos Productos</h3>
 							<div class="section-nav">
 								<ul class="section-tab-nav tab-nav">
 									<li class="active"><a data-toggle="tab" href="#tab1">Laptops</a></li>
-									<li><a data-toggle="tab" href="#tab1">Smartphones</a></li>
-									<li><a data-toggle="tab" href="#tab1">Cameras</a></li>
-									<li><a data-toggle="tab" href="#tab1">Accessories</a></li>
+									<li><a data-toggle="tab" href="#tab1">Teléfonos</a></li>
+									<li><a data-toggle="tab" href="#tab1">Cámaras</a></li>
+									<li><a data-toggle="tab" href="#tab1">Accesorios</a></li>
 								</ul>
 							</div>
 						</div>
@@ -171,7 +171,7 @@
 									<div class='product-body'>
 										<p class='product-category'>$cat_name</p>
 										<h3 class='product-name header-cart-item-name'><a href='product.php?p=$pro_id'>$pro_title</a></h3>
-										<h4 class='product-price header-cart-item-info'>$pro_price<del class='product-old-price'>$990.00</del></h4>
+										<h4 class='product-price header-cart-item-info'>$". number_format($pro_price, 2) ."<del class='product-old-price'>$990.00</del></h4>
 										<div class='product-rating'>
 											<i class='fa fa-star'></i>
 											<i class='fa fa-star'></i>
@@ -180,13 +180,13 @@
 											<i class='fa fa-star'></i>
 										</div>
 										<div class='product-btns'>
-											<button class='add-to-wishlist'><i class='fa fa-heart-o'></i><span class='tooltipp'>add to wishlist</span></button>
-											<button class='add-to-compare'><i class='fa fa-exchange'></i><span class='tooltipp'>add to compare</span></button>
+											<button class='add-to-wishlist'><i class='fa fa-heart-o'></i><span class='tooltipp'>Agregar a Favoritos</span></button>
+											<button class='add-to-compare'><i class='fa fa-exchange'></i><span class='tooltipp'>Agregar a Comparación</span></button>
 											<button class='quick-view'><i class='fa fa-eye'></i><span class='tooltipp'>quick view</span></button>
 										</div>
 									</div>
 									<div class='add-to-cart'>
-										<button pid='$pro_id' id='product' class='add-to-cart-btn block2-btn-towishlist' href='#'><i class='fa fa-shopping-cart'></i> add to cart</button>
+										<button pid='$pro_id' id='product' class='add-to-cart-btn block2-btn-towishlist' href='#'><i class='fa fa-shopping-cart'></i> Agregar al carrito</button>
 									</div>
 								</div>
                                
@@ -232,31 +232,31 @@
 								<li>
 									<div>
 										<h3>02</h3>
-										<span>Days</span>
+										<span>Días</span>
 									</div>
 								</li>
 								<li>
 									<div>
 										<h3>10</h3>
-										<span>Hours</span>
+										<span>Horas</span>
 									</div>
 								</li>
 								<li>
 									<div>
 										<h3>34</h3>
-										<span>Mins</span>
+										<span>Minutos</span>
 									</div>
 								</li>
 								<li>
 									<div>
 										<h3>60</h3>
-										<span>Secs</span>
+										<span>Segundos</span>
 									</div>
 								</li>
 							</ul>
-							<h2 class="text-uppercase">hot deal this week</h2>
-							<p>New Collection Up to 50% OFF</p>
-							<a class="primary-btn cta-btn" href="store.php">Shop now</a>
+							<h2 class="text-uppercase">Ofertas de esta semana</h2>
+							<p>Nueva colección con hasta un 50% de descuento</p>
+							<a class="primary-btn cta-btn" href="store.php">Comprar ahora</a>
 						</div>
 					</div>
 				</div>
@@ -277,13 +277,9 @@
 					<!-- section title -->
 					<div class="col-md-12">
 						<div class="section-title">
-							<h3 class="title">Top selling</h3>
+							<h3 class="title">Top ventas</h3>
 							<div class="section-nav">
 								<ul class="section-tab-nav tab-nav">
-									<li class="active"><a data-toggle="tab" href="#tab2">Formals</a></li>
-									<li><a data-toggle="tab" href="#tab2">Shirts</a></li>
-									<li><a data-toggle="tab" href="#tab2">T-Shirts</a></li>
-									<li><a data-toggle="tab" href="#tab2">Pants</a></li>
 								</ul>
 							</div>
 						</div>
@@ -331,7 +327,7 @@
 									<div class='product-body'>
 										<p class='product-category'>$cat_name</p>
 										<h3 class='product-name header-cart-item-name'><a href='product.php?p=$pro_id'>$pro_title</a></h3>
-										<h4 class='product-price header-cart-item-info'>$pro_price<del class='product-old-price'>$990.00</del></h4>
+										<h4 class='product-price header-cart-item-info'>$". number_format($pro_price, 2) ."<del class='product-old-price'>$990.00</del></h4>
 										<div class='product-rating'>
 											<i class='fa fa-star'></i>
 											<i class='fa fa-star'></i>
@@ -340,13 +336,13 @@
 											<i class='fa fa-star'></i>
 										</div>
 										<div class='product-btns'>
-											<button class='add-to-wishlist'><i class='fa fa-heart-o'></i><span class='tooltipp'>add to wishlist</span></button>
-											<button class='add-to-compare'><i class='fa fa-exchange'></i><span class='tooltipp'>add to compare</span></button>
+											<button class='add-to-wishlist'><i class='fa fa-heart-o'></i><span class='tooltipp'>Agregar a Favoritos</span></button>
+											<button class='add-to-compare'><i class='fa fa-exchange'></i><span class='tooltipp'>Agregar a Comparación</span></button>
 											<button class='quick-view'><i class='fa fa-eye'></i><span class='tooltipp'>quick view</span></button>
 										</div>
 									</div>
 									<div class='add-to-cart'>
-										<button pid='$pro_id' id='product' class='add-to-cart-btn block2-btn-towishlist' href='#'><i class='fa fa-shopping-cart'></i> add to cart</button>
+										<button pid='$pro_id' id='product' class='add-to-cart-btn block2-btn-towishlist' href='#'><i class='fa fa-shopping-cart'></i> Agregar al carrito</button>
 									</div>
 								</div>
                                
@@ -383,7 +379,7 @@
 				<div class="row">
 					<div class="col-md-4 col-xs-6">
 						<div class="section-title">
-							<h4 class="title">Top selling</h4>
+							<h4 class="title">Top ventas</h4>
 							<div class="section-nav">
 								<div id="slick-nav-3" class="products-slick-nav"></div>
 							</div>
@@ -442,7 +438,7 @@
 
 					<div class="col-md-4 col-xs-6">
 						<div class="section-title">
-							<h4 class="title">Top selling</h4>
+							<h4 class="title">Top ventas</h4>
 							<div class="section-nav">
 								<div id="slick-nav-4" class="products-slick-nav"></div>
 							</div>
@@ -539,7 +535,7 @@
 
 					<div class="col-md-4 col-xs-6">
 						<div class="section-title">
-							<h4 class="title">Top selling</h4>
+							<h4 class="title">Top ventas</h4>
 							<div class="section-nav">
 								<div id="slick-nav-5" class="products-slick-nav"></div>
 							</div>
