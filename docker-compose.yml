@@ -1,0 +1,47 @@
+services:
+  webserver:
+    #image: 
+    build: ./
+    ports:
+      - "80:80"
+      - "443:443"
+    #     volumes:
+    #       - ./app:/var/www/html
+    environment:
+      # MYSQL_DB_CONNECTION: test
+      MYSQL_DB_SERVER: mysql
+      MYSQL_DB_NAME: ecommerce
+      MYSQL_USER: root
+      MYSQL_PASSWORD: root
+      SITE_URL: http://localhost
+    volumes:
+      - ./php/php.ini:/usr/local/etc/php/php.ini:ro
+    networks:
+      - test
+  mysql:
+    # image: mysql:5.7
+    build: ./mysql/
+    restart: always
+    environment:
+      MYSQL_DB_SERVER: mysql
+      MYSQL_DATABASE: 'ecommerce'
+      MYSQL_USER: 'ecommerece'
+      MYSQL_PASSWORD: 'root'
+      MYSQL_ROOT_PASSWORD: 'root'
+    ports:
+      - '3306:3306'
+    expose:
+      - '3306'
+    volumes:
+      - my-db:/var/lib/mysql
+      - ./init-scripts:/tmp/database
+    command: mysqld --init-file="/tmp/database/initdb.sql"
+    networks:
+      - test
+
+volumes:
+  my-db:
+
+networks:
+  test:
+    external: true

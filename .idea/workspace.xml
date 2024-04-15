@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b01cb6f-abf2-4346-98a6-25f7f3eb6cf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/action.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/activitity.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/activity.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/add_products.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/addsuppliers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/css/Material+Icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/css/black-dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/css/material-dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/css/material-dashboard.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/demo/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/demo/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/Capture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/faces/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/faces/card-profile1-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/faces/card-profile2-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/faces/marc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/new_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/sidebar-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/sidebar-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/sidebar-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/img/sidebar-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/js/core/bootstrap-material-design.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/js/core/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/js/core/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/js/material-dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/js/material-dashboard.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/js/material-dashboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/js/plugins/bootstrap-notify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/js/plugins/chartist.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/js/plugins/perfect-scrollbar.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/assets/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/edituser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/electroniclist.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/errors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/includes/db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/manageuser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/mapping.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/orders.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/products_list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/salesofday.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/sidenav.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/sumit_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/topheader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin/update_products.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/Material+Icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/black-dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/material-dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/material-dashboard.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/demo/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/demo/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/material-icon/css/material-design-iconic-font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/material-icon/css/material-design-iconic-font.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/material-icon/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/material-icon/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/material-icon/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-300.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-300.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-300.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-300.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-300.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-300italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-300italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-300italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-300italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-300italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-500.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-500.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-500.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-500.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-500.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-500italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-500italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-500italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-500italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-500italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-600.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-600.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-600.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-600.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-600.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-700.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-700.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-700.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-700.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-700italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-700italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-700italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-700italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-700italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-800.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-800.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-800.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-800.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-800.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-800italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-800italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-800italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-800italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-800italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/poppins-v5-latin-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-700.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-700.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-700.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-700.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-700italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-700italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-700italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-700italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-700italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-italic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/fonts/poppins/roboto-condensed-v16-latin-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/images/signin-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/images/signup-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/faces/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/faces/card-profile1-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/faces/card-profile2-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/faces/marc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/new_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/sidebar-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/sidebar-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/sidebar-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/img/sidebar-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/core/bootstrap-material-design.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/core/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/core/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/material-dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/material-dashboard.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/material-dashboard.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/plugins/bootstrap-notify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/plugins/chartist.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/js/plugins/perfect-scrollbar.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/scss/common/extend.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/scss/common/fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/scss/common/global.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/scss/common/minxi.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/scss/common/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/scss/layouts/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/scss/layouts/responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/vendor/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/assets/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/reg.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/server/errors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/server/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/body.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout_process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/accountbtn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/nouislider.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/slick-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/slick.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/tiendaonline.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeaction.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/LogotipoMeraki.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/abbd7334ae84cb03 (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/b1f5c1fb-be6f-4048-8ef9-934b644025ec___eeda8700a4bfce277c46863beba1a65d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner_img4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/dress_shirt_PNG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/e3e8bbc0-55b2-445e-81e3-610c5981a450___e552aa51ef4dcd2276742684826a78b4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ff2e1f4e-2133-4790-88ea-6918fea11a99___ae80718285a8b8c9b7b972d648d393de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/hotdeal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/image.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/product09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/shop01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/shop02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/shop03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/slider_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.payform.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.zoom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/nouislider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/slick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/sweetalert.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newslettter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/offersmail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment_success.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/12039452_525963140912391_6353341236808813360_n.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/2012-Winter-Sweater-for-Men-for-better-outlook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/41OJZebRUoL._SL246_SX190_CR0,0,190,246_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/530201353846AM_635_sony_xperia_z.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/7475-ladies-casual-dresses-summer-two-colors-pleated.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/CT_WM_BTS-BTC-AppliancesHome_20150723.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/IN-Mens-Apparel-Voodoo-Tiles-09._V333872612_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/IPad_Air_2_Wikipedia.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/SDL010220333_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/Singer-Singer-Food-Processor-FP57-17867796-ecf352e2-bf44-480a-a4a3-530831f81456-jpg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/Spring-Autumn-Winter-Young-Ladies-Casual-Wool-Dress-Women-s-One-Piece-Dresse-Dating-Clothes-Medium.jpg_640x640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/Winter-fashion-men-burst-sweater.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/amer-furniture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/asian-furniture-250x250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/bedroom-furniture-250x250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/cache-furnitures-ltd-cot-j6619q-wos-60x75.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/camera.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/da4371ffa192a115f922b1c0dff88193.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/emergency light.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/furniture-book-shelf-250x250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/gents-formal-250x250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/gents-party-wear-suits-500x500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/girl-walking.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/http___pluspng.com_img-png_iphone-6s-png-iphone-6s-gold-64gb-1000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/http___pluspng.com_img-png_iphone-hd-png-iphone-apple-png-file-550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/i3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/iPad-air.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/image28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/ipad 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/ipad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/iphone mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/iphone-hd-png-iphone-apple-png-file-550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/iphone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/iron.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/k2-_ed8b8f8d-e696-4a96-8ce9-d78246f10ed1.v1.jpg-bc204bdaebb10e709a997a8bb4518156dfa6e3ed-optim-450x450.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/laptop_PNG5930.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/laptop_PNG5939.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/laptop_PNG5940.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/mens-winter-wear-collection.www_.ozyle-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/metro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/ms1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/ms2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/ms3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/office5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pbb1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pbb2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pbb3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pixave-ipad-inspiration-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pm1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pm11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pm12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pm13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pm2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pm3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pm7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pm9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/product01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/product02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/product03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/product04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/product05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/product06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/product07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/product08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/product09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pt1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pt2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pt3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pt4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pt5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pt6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pt7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/pt8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/realme-2-pro-rmx1801-original-imaf9cuf3y3gn9tb.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/red dress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/samsung mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/samsung_galaxy_note3_note3neo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/shortname.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/shutterstock_203611819.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/silh-lb-h13-hd_page_991-349788_350x470.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/singer-mixer-grinder-mg-46-medium_4bfa018096c25dec7ba0af40662856ef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/sony mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/storage-cot-wardrobes-doors-office-furnitures-250x250.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_images/white iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/register_form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/Home.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/admin.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/electronics.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot/top_selling.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topheader" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2f7crmD0J49VU7QFuIZedIwhVOF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\th3gent\Development\UFG\CICLI-VI\Servidores\tienda-online-php" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PS-241.14494.237" />
+        <option value="bundled-php-predefined-ba97393d7c68-8f0632a2a215-com.jetbrains.php.sharedIndexes-PS-241.14494.237" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b01cb6f-abf2-4346-98a6-25f7f3eb6cf8" name="Changes" comment="" />
+      <created>1713155759307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713155759307</updated>
+      <workItem from="1713155761139" duration="9581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

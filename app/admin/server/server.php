@@ -1,8 +1,5 @@
 <?php
 session_start();
-?>
-
-<?php
 
 // initializing variables
 $name = "";
@@ -12,8 +9,14 @@ $email    = "";
 $errors = array();
 $reg_date = date("Y/m/d");
 
+
+define('SERVER_MYSQL_DB_SERVER', getenv('MYSQL_DB_SERVER') ?: 'mysql');
+define('SERVER_MYSQL_USER', getenv('MYSQL_USER') ?: 'root');
+define('SERVER_MYSQL_PASSWORD', getenv('MYSQL_PASSWORD') ?: 'root');
+define('SERVER_MYSQL_DB_NAME', getenv('MYSQL_DB_NAME') ?: 'ecommerece');
+
 // connect to the database
-$db = mysqli_connect('localhost:3308', 'root', '', 'tiendaonline');
+$db = mysqli_connect(SERVER_MYSQL_DB_SERVER, SERVER_MYSQL_USER, SERVER_MYSQL_PASSWORD, SERVER_MYSQL_DB_NAME);
 
 
 // REGISTER USER
@@ -65,10 +68,6 @@ if (isset($_POST['reg_user'])) {
 }
 
 
-
-
-
-
 if (isset($_POST['login_admin'])) {
   $admin_username = mysqli_real_escape_string($db, $_POST['admin_username']);
   $password = mysqli_real_escape_string($db, $_POST['password']);
@@ -95,5 +94,5 @@ if (isset($_POST['login_admin'])) {
   }
 }
 
-?>
+
 

@@ -1,3 +1,4 @@
+use ecommerce;
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
@@ -39,7 +40,8 @@ CREATE TABLE `admin_info` (
 --
 
 INSERT INTO `admin_info` (`admin_id`, `admin_name`, `admin_email`, `admin_password`) VALUES
-(1, 'meraki', 'meraki@gmail.com', '25f9e794323b453885f5181f1b624d0b');
+(1, 'meraki', 'meraki@gmail.com', '25f9e794323b453885f5181f1b624d0b'),
+(1, 'admin', 'admin@gmail.com', '1398b19dfe32ef86cf86f8cb8ff0460b');
 
 -- --------------------------------------------------------
 

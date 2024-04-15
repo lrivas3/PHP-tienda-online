@@ -1,6 +1,6 @@
 <?php
-session_start();
 include "db.php";
+
 if (isset($_POST["f_name"])) {
 
 	$f_name = $_POST["f_name"];
@@ -129,61 +129,3 @@ if(empty($f_name) || empty($l_name) || empty($email) || empty($password) || empt
 	}
 	
 }
-
-
-
-?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

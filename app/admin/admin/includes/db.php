@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost:3308"; // Agrega el número de puerto después de dos puntos
+$servername = "mysql"; // Agrega el número de puerto después de dos puntos
 $username = "root";
-$password = "";
-$db = "TiendaOnline";
+$password = "root";
+$db = "ecommerce";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password, $db);
